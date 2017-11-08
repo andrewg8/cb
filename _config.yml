@@ -1,10 +1,10 @@
 # basic options
-title: Your awesome title
-author: GitHub User
-email: your-email@domain.com
-description: A wonderful site
-twitter_username: jekyllrb
-github_username:  jekyll
+title: Charlie's Bagels
+author: Charlie's Bagels
+email: hello@charliesbagels.com
+description: Welcome to the Charlie's Bagels website! Home of the world famous Charlie's Bagels!
+twitter_username: CharliesBagels
+github_username:  CharliesBagels
 
 # Build settings
 markdown: kramdown
