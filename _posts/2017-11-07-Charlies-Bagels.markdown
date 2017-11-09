@@ -26,3 +26,10 @@ Here at Charlie's, we have many different kinds of food. In fact, we have three 
 The menus are listed below
 
 ### Drinks Menu
+
+Item | Description | Price
+--- |--- |--- |
+Milk | Straight from the cow | $2
+Coffee | help yourself to additions! | $3
+Kale Juice | for all you health geeks | $4
+Hot Chocolate | A cup of cozy! | $3
