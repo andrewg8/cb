@@ -2,7 +2,7 @@
 layout: post
 title:  "Charlie's Bagels"
 date:   2017-11-07 -
-categories: Charlies-Bagels Charlies Bagels
+categories:
 ---
 # Charlie's Bagels
 
