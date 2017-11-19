@@ -6,3 +6,4 @@ layout: home
 ---
 <link rel="stylesheet" href="/css/main.css">
 <script src="/cb/js/bootstrap/bootstrap.min.js"></script>
+<script src="/cb/js/jquery-3.2.1.min.js"></script>
